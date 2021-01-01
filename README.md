@@ -1,3 +1,4 @@
+[archived]
 # beast-issue
 Discovered on Boost Version 290. The websocket::stream doesn't seem to reset its internal state properly.
 This is the shortest code I came up with to reproduce the error.
